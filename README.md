@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @hessamedien
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👨‍💻 Hessam | Developer
 
-<!---
-hessamedien/hessamedien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my digital workshop! I'm a developer passionate about crafting the web, from sleek interfaces to powerful logic.
+
+**My Toolkit & Interests:**
+*   `>>>` **Python:** For scripting, automation, and backend adventures.
+*   `</>` **HTML, CSS, JS:** Building the structural beauty and interactivity of the web.
+*   `{ }` **Java:** Exploring enterprise-level application design and development.
+
+I see code as a canvas and technology as a language for innovation. I'm constantly learning, building side projects, and pushing my boundaries.
+
+**📱 See a more personal side of my journey on Instagram:** [@HESSAMEDIEN](https://instagram.com/HESSAMEDIEN)
+
+---
+*“First, solve the problem. Then, write the code.” – John Johnson*
