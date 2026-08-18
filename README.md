@@ -1,4 +1,4 @@
-# 👨‍💻 Hessam | Developer
+# 👨‍💻 Hessamedien | Developer
 
 Welcome to my digital workshop! I'm a developer passionate about crafting the web, from sleek interfaces to powerful logic.
 
